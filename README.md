@@ -1,4 +1,4 @@
-# SMB-game-der-repo
+# SMB-game-dev-repo
  Repository used for testing of Submechnophobia
 
 # Project Setup Instructions
