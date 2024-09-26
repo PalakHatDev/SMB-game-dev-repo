@@ -1,4 +1,6 @@
-# SMB-game-dev-repo
+# Official Submechnophobia Development Repository
+![Screenshot_12](https://github.com/user-attachments/assets/c18b3916-566f-4b13-830f-e86153f39743)
+
  Repository used for testing of Submechnophobia
 
 # Project Setup Instructions
