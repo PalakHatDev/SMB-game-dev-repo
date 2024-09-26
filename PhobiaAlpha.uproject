@@ -272,12 +272,8 @@
 			"Enabled": false
 		}
 	],
-	"AdditionalPluginDirectories": [
-		"../../3DMark/Asset Downgrader (5.1+)/AssetDowngrader"
-	],
 	"TargetPlatforms": [
 		"Windows",
 		"Linux",
-		"LinuxArm64"
 	]
 }
