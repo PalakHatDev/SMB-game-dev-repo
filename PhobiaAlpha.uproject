@@ -83,10 +83,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "GitSourceControl",
-			"Enabled": false
-		},
-		{
 			"Name": "GoogleCloudMessaging",
 			"Enabled": false
 		},
@@ -270,10 +266,14 @@
 		{
 			"Name": "PerforceSourceControl",
 			"Enabled": false
+		},
+		{
+			"Name": "NiagaraSimCaching",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"Windows",
-		"Linux",
+		"Linux"
 	]
 }
