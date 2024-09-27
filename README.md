@@ -39,3 +39,9 @@ Modify this file and remove any unecessary plugins if necessary (The rest of the
 
 You are done! Just open the folder and verify that the project is working correctly.
 
+
+## TO-DO:
+
+- Make Sun ~15% bigger (Josh)
+- Learn and see if NiagaraSimCache can be input into the sequencer (Josh)
+- Litmus (Litmus)
