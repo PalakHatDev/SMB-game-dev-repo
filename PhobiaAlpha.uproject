@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{24F9882B-4A5B-2ED1-E848-3C92FEF86A12}",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -270,6 +270,15 @@
 		{
 			"Name": "NiagaraSimCaching",
 			"Enabled": true
+		},
+		{
+			"Name": "Fab",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	],
 	"TargetPlatforms": [
