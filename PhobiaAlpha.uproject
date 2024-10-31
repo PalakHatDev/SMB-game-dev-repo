@@ -289,10 +289,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ActorSequence",
-			"Enabled": false
-		},
-		{
 			"Name": "Metasound",
 			"Enabled": false
 		},
@@ -315,6 +311,23 @@
 		{
 			"Name": "KDevelopSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "SystemAudioVolumeLite",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a794ab17b9a9457c8960794a90035414"
+		},
+		{
+			"Name": "AudioGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioGameplayVolume",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioWidgets",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
